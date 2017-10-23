@@ -50,7 +50,7 @@ to be used in your tests it should be safe to pull into a project.
 
 ## Installation
 ```bash
-npm install --save-dev ionic-mocks
+npm install --save-dev ionic-mocks-ens
 ```
 
 ### Examples
